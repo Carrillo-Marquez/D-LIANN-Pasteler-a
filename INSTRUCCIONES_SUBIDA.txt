@@ -1,0 +1,14 @@
+D’LIANN PASTELERÍA — ARREGLO DE RUTAS GITHUB PAGES
+
+Esta edición está preparada para que TODOS LOS ARCHIVOS estén directamente en la raíz del repositorio, sin carpetas.
+
+1. Descomprime DLIANN_CORREGIDO_ARCHIVOS_SUELTOS.zip.
+2. En tu repositorio de GitHub, elige Add file > Upload files.
+3. Selecciona TODOS los archivos dentro de la carpeta descomprimida (index.html, estilos.css, bootstrap.min.css, archivos .webp, .js, etc.). No arrastres la carpeta contenedora ni el ZIP.
+4. Comprueba que GitHub muestre los archivos nuevos sin un prefijo de carpeta. Haz clic en Commit changes.
+5. Espera al despliegue verde de GitHub Pages y actualiza la página con Ctrl+F5.
+6. Verifica directamente:
+https://carrillo-marquez.github.io/D-LIANN-Pasteler-a/pastel-personalizado.webp
+https://carrillo-marquez.github.io/D-LIANN-Pasteler-a/estilos.css
+
+IMPORTANTE: los archivos antiguos y carpetas duplicadas pueden quedarse por ahora; no es necesario borrarlos para que esta versión funcione. Luego se pueden limpiar.
