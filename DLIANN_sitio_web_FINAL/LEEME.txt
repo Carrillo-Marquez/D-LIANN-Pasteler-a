@@ -1,0 +1,17 @@
+D’LIANN Pastelería — SITIO WEB FINAL (DATOS AUTORIZADOS)
+=========================================================
+1. Abre index.html en tu navegador para revisar el sitio.
+2. Publica en GitHub Pages reemplazando el contenido del repositorio con TODOS los archivos y carpetas de este ZIP sin cambiar su estructura.
+3. Facebook ORIGINAL: https://www.facebook.com/share/1Fh37Fjcxf/
+4. WhatsApp proporcionado: +52 1 477 860 8183. Enlace: https://wa.me/5214778608183
+5. Instagram: https://www.instagram.com/dliannpasteleria/ (según el reporte académico previo).
+6. Dirección: Blvd. San Pedro 1504, San Isidro de Jerez, León, Guanajuato, México.
+7. Horarios: lunes a sábado de 12:00 a 20:00; domingos de 12:00 a 19:00.
+8. Entregas: NO; se indica que los pedidos son para recoger en tienda.
+9. No se incorporan precios, reseñas, años de trayectoria o certificaciones no autorizados.
+10. El mapa es una búsqueda basada en la dirección proporcionada: comprueba visualmente su marcador con la pastelería.
+11. No recibimos el logotipo original; la identidad tipográfica es provisional. Todas las fotos pertenecen al material proporcionado.
+12. Esta página es informativa: pedidos y cotizaciones se gestionan a través de enlaces de contacto, no mediante pagos online.
+13. SEO: title, description, encabezados, alt, canonical, JSON-LD (Bakery), sitemap y robots.txt; comprueba Search Console después de publicar.
+14. Si quieres cambiar el teléfono o enlaces, edita js/contactos.js y también el JSON-LD / textos en index.html para que sean consistentes.
+15. Al publicar, prueba los enlaces de redes, verifica la visualización en móvil y vuelve a medir con PageSpeed Insights y Seobility.

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carrillo-marquez.github.io/D-LIANN-Pasteler-a/sitemap.xml
